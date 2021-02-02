@@ -2,18 +2,9 @@
 
 ## Descrição
 
-Este projeto foi desenvolvido junto com Professor **May Brito** **Maratona Discover** promovido pela Rockseat.
+Este projeto foi desenvolvido junto com Professor **May Brito**, (**Maratona Discover**) promovido pela **Rockseat**.
 
 O site foi desenvolvido utilizando **HTML, CSS** e **JavaScript**. O objetivo foi desenvolver um site de controle financeiro que dada uma entrada e saida valores calcule o valor total da lista e retorne o quanto essa pessoa teve de despeças.
-
-## Passos para executar o projeto
-
-1. Abra um terminal na pasta do projeto
-2. Execute o comando
-
-```
-node maratona-discover.html
-```
 
 ## Passos para testar o projeto
 
